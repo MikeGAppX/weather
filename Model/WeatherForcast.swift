@@ -2,7 +2,7 @@
 //  WeatherForcast.swift
 //  Weather
 //
-//  Created by MAC on 26/08/21.
+//  Created by Mikael Galliot on 26/08/21.
 //
 
 import Foundation
